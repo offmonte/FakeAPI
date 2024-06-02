@@ -1,167 +1,169 @@
-[
-  {
-    "Cidade": "Santos",
-    "Porto": "Porto de Santos",
-    "pH": 8.1,
-    "Oxigênio Dissolvido (mg/L)": 6.2,
-    "Nitrato (mg/L)": 0.5,
-    "Fosfato (mg/L)": 0.03,
-    "Microplásticos (partículas/L)": 10,
-    "Salinidade (ppt)": 34.8,
-    "Água Boa (Sim/Não)": "Sim"
-  },
-  {
-    "Cidade": "Rio de Janeiro",
-    "Porto": "Porto do Rio",
-    "pH": 7.8,
-    "Oxigênio Dissolvido (mg/L)": 5.8,
-    "Nitrato (mg/L)": 2.0,
-    "Fosfato (mg/L)": 0.1,
-    "Microplásticos (partículas/L)": 25,
-    "Salinidade (ppt)": 35.0,
-    "Água Boa (Sim/Não)": "Não"
-  },
-  {
-    "Cidade": "Salvador",
-    "Porto": "Porto de Salvador",
-    "pH": 8.3,
-    "Oxigênio Dissolvido (mg/L)": 6.5,
-    "Nitrato (mg/L)": 0.2,
-    "Fosfato (mg/L)": 0.02,
-    "Microplásticos (partículas/L)": 5,
-    "Salinidade (ppt)": 35.2,
-    "Água Boa (Sim/Não)": "Sim"
-  },
-  {
-    "Cidade": "Fortaleza",
-    "Porto": "Porto de Fortaleza",
-    "pH": 7.9,
-    "Oxigênio Dissolvido (mg/L)": 4.5,
-    "Nitrato (mg/L)": 1.5,
-    "Fosfato (mg/L)": 0.05,
-    "Microplásticos (partículas/L)": 50,
-    "Salinidade (ppt)": 33.7,
-    "Água Boa (Sim/Não)": "Não"
-  },
-  {
-    "Cidade": "Recife",
-    "Porto": "Porto de Recife",
-    "pH": 8.0,
-    "Oxigênio Dissolvido (mg/L)": 5.5,
-    "Nitrato (mg/L)": 0.8,
-    "Fosfato (mg/L)": 0.04,
-    "Microplásticos (partículas/L)": 15,
-    "Salinidade (ppt)": 34.5,
-    "Água Boa (Sim/Não)": "Sim"
-  },
-  {
-    "Cidade": "Vitória",
-    "Porto": "Porto de Vitória",
-    "pH": 8.2,
-    "Oxigênio Dissolvido (mg/L)": 6.1,
-    "Nitrato (mg/L)": 0.3,
-    "Fosfato (mg/L)": 0.02,
-    "Microplásticos (partículas/L)": 20,
-    "Salinidade (ppt)": 34.9,
-    "Água Boa (Sim/Não)": "Sim"
-  },
-  {
-    "Cidade": "Manaus",
-    "Porto": "Porto de Manaus",
-    "pH": 7.7,
-    "Oxigênio Dissolvido (mg/L)": 4.8,
-    "Nitrato (mg/L)": 2.5,
-    "Fosfato (mg/L)": 0.08,
-    "Microplásticos (partículas/L)": 30,
-    "Salinidade (ppt)": 33.5,
-    "Água Boa (Sim/Não)": "Não"
-  },
-  {
-    "Cidade": "Belém",
-    "Porto": "Porto de Belém",
-    "pH": 8.0,
-    "Oxigênio Dissolvido (mg/L)": 6.0,
-    "Nitrato (mg/L)": 1.0,
-    "Fosfato (mg/L)": 0.03,
-    "Microplásticos (partículas/L)": 8,
-    "Salinidade (ppt)": 35.1,
-    "Água Boa (Sim/Não)": "Sim"
-  },
-  {
-    "Cidade": "Paranaguá",
-    "Porto": "Porto de Paranaguá",
-    "pH": 7.6,
-    "Oxigênio Dissolvido (mg/L)": 5.2,
-    "Nitrato (mg/L)": 3.0,
-    "Fosfato (mg/L)": 0.1,
-    "Microplásticos (partículas/L)": 45,
-    "Salinidade (ppt)": 32.9,
-    "Água Boa (Sim/Não)": "Não"
-  },
-  {
-    "Cidade": "Itajaí",
-    "Porto": "Porto de Itajaí",
-    "pH": 8.4,
-    "Oxigênio Dissolvido (mg/L)": 6.7,
-    "Nitrato (mg/L)": 0.4,
-    "Fosfato (mg/L)": 0.01,
-    "Microplásticos (partículas/L)": 12,
-    "Salinidade (ppt)": 35.3,
-    "Água Boa (Sim/Não)": "Sim"
-  },
-  {
-    "Cidade": "Rio Grande",
-    "Porto": "Porto de Rio Grande",
-    "pH": 7.9,
-    "Oxigênio Dissolvido (mg/L)": 4.9,
-    "Nitrato (mg/L)": 2.2,
-    "Fosfato (mg/L)": 0.07,
-    "Microplásticos (partículas/L)": 40,
-    "Salinidade (ppt)": 33.8,
-    "Água Boa (Sim/Não)": "Não"
-  },
-  {
-    "Cidade": "São Luís",
-    "Porto": "Porto de Itaqui",
-    "pH": 8.1,
-    "Oxigênio Dissolvido (mg/L)": 5.7,
-    "Nitrato (mg/L)": 0.6,
-    "Fosfato (mg/L)": 0.05,
-    "Microplásticos (partículas/L)": 18,
-    "Salinidade (ppt)": 34.7,
-    "Água Boa (Sim/Não)": "Sim"
-  },
-  {
-    "Cidade": "Aracaju",
-    "Porto": "Porto de Aracaju",
-    "pH": 7.5,
-    "Oxigênio Dissolvido (mg/L)": 5.0,
-    "Nitrato (mg/L)": 1.8,
-    "Fosfato (mg/L)": 0.09,
-    "Microplásticos (partículas/L)": 35,
-    "Salinidade (ppt)": 33.2,
-    "Água Boa (Sim/Não)": "Não"
-  },
-  {
-    "Cidade": "Natal",
-    "Porto": "Porto de Natal",
-    "pH": 8.3,
-    "Oxigênio Dissolvido (mg/L)": 6.4,
-    "Nitrato (mg/L)": 0.3,
-    "Fosfato (mg/L)": 0.02,
-    "Microplásticos (partículas/L)": 22,
-    "Salinidade (ppt)": 35.0,
-    "Água Boa (Sim/Não)": "Sim"
-  },
-  {
-    "Cidade": "Macapá",
-    "Porto": "Porto de Santana",
-    "pH": 7.8,
-    "Oxigênio Dissolvido (mg/L)": 4.7,
-    "Nitrato (mg/L)": 2.1,
-    "Fosfato (mg/L)": 0.06,
-    "Microplásticos (partículas/L)": 28,
-    "Salinidade (ppt)": 34.0,
-    "Água Boa (Sim/Não)": "Não"
-  }
-]
+{
+  "SobreAgua": [
+    {
+      "Cidade": "Santos",
+      "Porto": "Porto de Santos",
+      "pH": 8.1,
+      "Oxigênio Dissolvido (mg/L)": 6.2,
+      "Nitrato (mg/L)": 0.5,
+      "Fosfato (mg/L)": 0.03,
+      "Microplásticos (partículas/L)": 10,
+      "Salinidade (ppt)": 34.8,
+      "Água Boa (Sim/Não)": "Sim"
+    },
+    {
+      "Cidade": "Rio de Janeiro",
+      "Porto": "Porto do Rio",
+      "pH": 7.8,
+      "Oxigênio Dissolvido (mg/L)": 5.8,
+      "Nitrato (mg/L)": 2.0,
+      "Fosfato (mg/L)": 0.1,
+      "Microplásticos (partículas/L)": 25,
+      "Salinidade (ppt)": 35.0,
+      "Água Boa (Sim/Não)": "Não"
+    },
+    {
+      "Cidade": "Salvador",
+      "Porto": "Porto de Salvador",
+      "pH": 8.3,
+      "Oxigênio Dissolvido (mg/L)": 6.5,
+      "Nitrato (mg/L)": 0.2,
+      "Fosfato (mg/L)": 0.02,
+      "Microplásticos (partículas/L)": 5,
+      "Salinidade (ppt)": 35.2,
+      "Água Boa (Sim/Não)": "Sim"
+    },
+    {
+      "Cidade": "Fortaleza",
+      "Porto": "Porto de Fortaleza",
+      "pH": 7.9,
+      "Oxigênio Dissolvido (mg/L)": 4.5,
+      "Nitrato (mg/L)": 1.5,
+      "Fosfato (mg/L)": 0.05,
+      "Microplásticos (partículas/L)": 50,
+      "Salinidade (ppt)": 33.7,
+      "Água Boa (Sim/Não)": "Não"
+    },
+    {
+      "Cidade": "Recife",
+      "Porto": "Porto de Recife",
+      "pH": 8.0,
+      "Oxigênio Dissolvido (mg/L)": 5.5,
+      "Nitrato (mg/L)": 0.8,
+      "Fosfato (mg/L)": 0.04,
+      "Microplásticos (partículas/L)": 15,
+      "Salinidade (ppt)": 34.5,
+      "Água Boa (Sim/Não)": "Sim"
+    },
+    {
+      "Cidade": "Vitória",
+      "Porto": "Porto de Vitória",
+      "pH": 8.2,
+      "Oxigênio Dissolvido (mg/L)": 6.1,
+      "Nitrato (mg/L)": 0.3,
+      "Fosfato (mg/L)": 0.02,
+      "Microplásticos (partículas/L)": 20,
+      "Salinidade (ppt)": 34.9,
+      "Água Boa (Sim/Não)": "Sim"
+    },
+    {
+      "Cidade": "Manaus",
+      "Porto": "Porto de Manaus",
+      "pH": 7.7,
+      "Oxigênio Dissolvido (mg/L)": 4.8,
+      "Nitrato (mg/L)": 2.5,
+      "Fosfato (mg/L)": 0.08,
+      "Microplásticos (partículas/L)": 30,
+      "Salinidade (ppt)": 33.5,
+      "Água Boa (Sim/Não)": "Não"
+    },
+    {
+      "Cidade": "Belém",
+      "Porto": "Porto de Belém",
+      "pH": 8.0,
+      "Oxigênio Dissolvido (mg/L)": 6.0,
+      "Nitrato (mg/L)": 1.0,
+      "Fosfato (mg/L)": 0.03,
+      "Microplásticos (partículas/L)": 8,
+      "Salinidade (ppt)": 35.1,
+      "Água Boa (Sim/Não)": "Sim"
+    },
+    {
+      "Cidade": "Paranaguá",
+      "Porto": "Porto de Paranaguá",
+      "pH": 7.6,
+      "Oxigênio Dissolvido (mg/L)": 5.2,
+      "Nitrato (mg/L)": 3.0,
+      "Fosfato (mg/L)": 0.1,
+      "Microplásticos (partículas/L)": 45,
+      "Salinidade (ppt)": 32.9,
+      "Água Boa (Sim/Não)": "Não"
+    },
+    {
+      "Cidade": "Itajaí",
+      "Porto": "Porto de Itajaí",
+      "pH": 8.4,
+      "Oxigênio Dissolvido (mg/L)": 6.7,
+      "Nitrato (mg/L)": 0.4,
+      "Fosfato (mg/L)": 0.01,
+      "Microplásticos (partículas/L)": 12,
+      "Salinidade (ppt)": 35.3,
+      "Água Boa (Sim/Não)": "Sim"
+    },
+    {
+      "Cidade": "Rio Grande",
+      "Porto": "Porto de Rio Grande",
+      "pH": 7.9,
+      "Oxigênio Dissolvido (mg/L)": 4.9,
+      "Nitrato (mg/L)": 2.2,
+      "Fosfato (mg/L)": 0.07,
+      "Microplásticos (partículas/L)": 40,
+      "Salinidade (ppt)": 33.8,
+      "Água Boa (Sim/Não)": "Não"
+    },
+    {
+      "Cidade": "São Luís",
+      "Porto": "Porto de Itaqui",
+      "pH": 8.1,
+      "Oxigênio Dissolvido (mg/L)": 5.7,
+      "Nitrato (mg/L)": 0.6,
+      "Fosfato (mg/L)": 0.05,
+      "Microplásticos (partículas/L)": 18,
+      "Salinidade (ppt)": 34.7,
+      "Água Boa (Sim/Não)": "Sim"
+    },
+    {
+      "Cidade": "Aracaju",
+      "Porto": "Porto de Aracaju",
+      "pH": 7.5,
+      "Oxigênio Dissolvido (mg/L)": 5.0,
+      "Nitrato (mg/L)": 1.8,
+      "Fosfato (mg/L)": 0.09,
+      "Microplásticos (partículas/L)": 35,
+      "Salinidade (ppt)": 33.2,
+      "Água Boa (Sim/Não)": "Não"
+    },
+    {
+      "Cidade": "Natal",
+      "Porto": "Porto de Natal",
+      "pH": 8.3,
+      "Oxigênio Dissolvido (mg/L)": 6.4,
+      "Nitrato (mg/L)": 0.3,
+      "Fosfato (mg/L)": 0.02,
+      "Microplásticos (partículas/L)": 22,
+      "Salinidade (ppt)": 35.0,
+      "Água Boa (Sim/Não)": "Sim"
+    },
+    {
+      "Cidade": "Macapá",
+      "Porto": "Porto de Santana",
+      "pH": 7.8,
+      "Oxigênio Dissolvido (mg/L)": 4.7,
+      "Nitrato (mg/L)": 2.1,
+      "Fosfato (mg/L)": 0.06,
+      "Microplásticos (partículas/L)": 28,
+      "Salinidade (ppt)": 34.0,
+      "Água Boa (Sim/Não)": "Não"
+    }
+  ]
+}
