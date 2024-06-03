@@ -1,6 +1,7 @@
 {
   "SobreAgua": [
     {
+      "ID": 1,
       "Cidade": "Santos",
       "Porto": "Porto de Santos",
       "pH": 8.1,
@@ -12,6 +13,7 @@
       "Água Boa (Sim/Não)": "Sim"
     },
     {
+      "ID": 2,
       "Cidade": "Rio de Janeiro",
       "Porto": "Porto do Rio",
       "pH": 7.8,
@@ -23,6 +25,7 @@
       "Água Boa (Sim/Não)": "Não"
     },
     {
+      "ID": 3,
       "Cidade": "Salvador",
       "Porto": "Porto de Salvador",
       "pH": 8.3,
@@ -34,6 +37,7 @@
       "Água Boa (Sim/Não)": "Sim"
     },
     {
+      "ID": 4,
       "Cidade": "Fortaleza",
       "Porto": "Porto de Fortaleza",
       "pH": 7.9,
@@ -45,6 +49,7 @@
       "Água Boa (Sim/Não)": "Não"
     },
     {
+      "ID": 5,
       "Cidade": "Recife",
       "Porto": "Porto de Recife",
       "pH": 8.0,
@@ -56,6 +61,7 @@
       "Água Boa (Sim/Não)": "Sim"
     },
     {
+      "ID": 6,
       "Cidade": "Vitória",
       "Porto": "Porto de Vitória",
       "pH": 8.2,
@@ -67,6 +73,7 @@
       "Água Boa (Sim/Não)": "Sim"
     },
     {
+      "ID": 7,
       "Cidade": "Manaus",
       "Porto": "Porto de Manaus",
       "pH": 7.7,
@@ -78,6 +85,7 @@
       "Água Boa (Sim/Não)": "Não"
     },
     {
+      "ID": 8,
       "Cidade": "Belém",
       "Porto": "Porto de Belém",
       "pH": 8.0,
@@ -89,6 +97,7 @@
       "Água Boa (Sim/Não)": "Sim"
     },
     {
+      "ID": 9,
       "Cidade": "Paranaguá",
       "Porto": "Porto de Paranaguá",
       "pH": 7.6,
@@ -100,6 +109,7 @@
       "Água Boa (Sim/Não)": "Não"
     },
     {
+      "ID": 10,
       "Cidade": "Itajaí",
       "Porto": "Porto de Itajaí",
       "pH": 8.4,
@@ -111,6 +121,7 @@
       "Água Boa (Sim/Não)": "Sim"
     },
     {
+      "ID": 11,
       "Cidade": "Rio Grande",
       "Porto": "Porto de Rio Grande",
       "pH": 7.9,
@@ -122,6 +133,7 @@
       "Água Boa (Sim/Não)": "Não"
     },
     {
+      "ID": 12,
       "Cidade": "São Luís",
       "Porto": "Porto de Itaqui",
       "pH": 8.1,
@@ -133,6 +145,7 @@
       "Água Boa (Sim/Não)": "Sim"
     },
     {
+      "ID": 13,
       "Cidade": "Aracaju",
       "Porto": "Porto de Aracaju",
       "pH": 7.5,
@@ -144,6 +157,7 @@
       "Água Boa (Sim/Não)": "Não"
     },
     {
+      "ID": 14,
       "Cidade": "Natal",
       "Porto": "Porto de Natal",
       "pH": 8.3,
@@ -155,6 +169,7 @@
       "Água Boa (Sim/Não)": "Sim"
     },
     {
+      "ID": 15,
       "Cidade": "Macapá",
       "Porto": "Porto de Santana",
       "pH": 7.8,
